@@ -28,7 +28,7 @@ Informatics I is a compulsory subject, and all students in general high schools 
 
 In contrast, Informatics II is an elective subject and is offered in only about 15% of general high schools. Moreover, in many cases, it is positioned as one option within a broader elective group. As a result, only about 2.3% of all general high school students actually take Informatics II. ([source](https://www.mext.go.jp/content/20260202-mxt_kyoiku01-000047020.pdf))
 
-- [English translation of the “Informatics I” curriculum](high-school/informatics1.md)
+- [English translation of the “Informatics I” curriculum](./high-school/informatics1.md)
 
 ## University (大学)
 

@@ -10,13 +10,19 @@ This page compiles information in English about the Japanese curriculum of compu
 
 The learning content in Japanese kindergarten is defined by the national curriculum ([幼稚園教育要領](https://www.mext.go.jp/content/1384661_3_2.pdf)).
 
+Computer science education is probably not explicitly addressed in kindergarten.
+
 ## Elementary School (小学校)
 
 The learning content in Japanese elementary school is defined by the national curriculum ([小学校学習指導要領](https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_01.pdf)).
 
+TBA
+
 ## Junior High School (中学校)
 
 The learning content in Japanese junior high school is defined by the national curriculum ([中学校学習指導要領](https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_02.pdf)).
+
+TBA
 
 ## High School (高等学校)
 
